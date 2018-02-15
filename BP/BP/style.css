@@ -1,0 +1,187 @@
+html
+	body{
+		font-family: 'PT Sans', sans-serif;
+		background-color:black;
+	}
+	a{
+		color:white;
+		text-decoration: none;
+	}
+	a:visited{
+		color:white;
+		text-decoration: none;
+	}
+	a:hover{
+		color:gray;
+		text-decoration: none;
+	}
+	h1{
+		color:gray;
+		font-family: 'Abril Fatface', cursive;
+		font-size:50pt;
+		word-spacing:35pt;
+	}
+	a .seven{
+		font-size:300pt;
+		border:3pt;
+		float:left;
+		margin:auto;
+	}
+	a .twentyone{
+		float:right;
+    font-size:300pt;
+	}
+	p{
+		color:white;
+	}
+	div.one{
+		width:50%;
+}
+	div.two{
+		width:50%;
+		float:right;
+	}
+	li#one {
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 3em;
+}
+	li#one:hover {
+   color: red;
+	}
+
+	li#two {
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom:5em;
+}
+
+	li#two:hover {
+   color: red;}
+
+	li#three{
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 7em;
+}
+
+	li#three:hover{
+   color: red;
+	}
+	li#four {
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 10em;
+}
+
+	li#four:hover {
+   color: red;
+	}
+	li#five{
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 14em;
+}
+
+	li#five:hover {
+   color: red;}
+
+   li#six{
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 18em;
+}
+	li#six:hover {
+   color: red;}
+	li#seven{
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 22em;
+}	
+
+	li#seven:hover {
+   color: red;}
+   li#eight{
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 25em;
+}
+
+	li#eight:hover {
+   color: red;}
+   li#nine{
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 30em;
+}
+
+	li#nine:hover {
+   color: red;}
+   li#ten{
+		font-size:40pt;
+		-webkit-transition: color 2s; /* For Safari 3.1 to 6.0 */
+    transition: color 2s;
+    padding-bottom: 50em;
+}
+	li#ten:hover {
+   color: red;
+	}
+
+
+	p#sixty{
+		-webkit-transition: font-size 5s; /* For Safari 3.1 to 6.0 */
+    transition: font-size 5s;
+    	text-align: center;
+	}
+	p#sixty:hover {
+		font-size: 80pt;
+		margin:auto;
+
+	}
+	p#tens{
+		-webkit-transition: font-size 5s; /* For Safari 3.1 to 6.0 */
+    transition: font-size 5s;
+    	text-align:center;
+    	margin:auto;
+	}
+	p#tens:hover{
+		font-size:80pt;
+		margin:auto;
+	}
+	ol {
+		list-style:none;
+		margin:100px;
+	}
+	p#demo{
+		-webkit-transition: font-size 10s, color 5s; /* For Safari 3.1 to 6.0 */
+    transition: font-size 10s, color:5s;
+		-webkit-transition-delay:3s;
+		transition-delay:1s;
+	}
+	p#demo:active{
+	font-size:200pt;
+	}
+	div.example-display{
+
+	}
+img#button:hover{
+	
+}
+img#button{
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid black;
+}
+
+	
